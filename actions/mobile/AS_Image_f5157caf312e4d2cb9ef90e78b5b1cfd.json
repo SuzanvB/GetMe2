@@ -1,0 +1,18 @@
+{
+    "AS_Image_f5157caf312e4d2cb9ef90e78b5b1cfd": {
+        "id": "AS_Image_f5157caf312e4d2cb9ef90e78b5b1cfd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "imagesrc"
+        }, {
+            "datatype": "boolean",
+            "name": "issuccess"
+        }],
+        "language": "js",
+        "actions": []
+    }
+}

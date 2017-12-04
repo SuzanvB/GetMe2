@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "49dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc324c7ae4c647088cae1e5ff004f21f",
+    "_text_": "Add to List",
+    "_top_": {
+        "type": "string",
+        "value": "535dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sefc2a313ece45e498dd8c9d119d9d2c",
+    "id": "AddList",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g9d576c686154d92ac57e801f8550111",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_cf5287c3f0444d34804c34f3a8bda873",
+    "parent": "MyList",
+    "pf": "MyList",
+    "wType": "Button",
+    "zindex": 1
+}

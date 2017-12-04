@@ -1,0 +1,34 @@
+{
+    "AS_TextArea_g10796d86cb54e1191e33762465a4271": {
+        "id": "AS_TextArea_g10796d86cb54e1191e33762465a4271",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "WriteNewPage",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c0d7e320be554bc4bc901c7c063c93a6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___adf0c232584e4530bdacfb61dedb59ad",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "WriteNewPage",
+            "widgetId": "WriteWIsh",
+            "propertyName": "text",
+            "propertyValue": "",
+            "itemKUID": "c0d7e320be554bc4bc901c7c063c93a6",
+            "widgetKUID": "f01ec28fc4ef4192a23e61d28a405b29",
+            "isSkinProperty": false,
+            "wType": "TextArea",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.WriteWIsh"
+        }]
+    }
+}

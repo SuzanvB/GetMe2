@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "49dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc324c7ae4c647088cae1e5ff004f21f",
+    "_text_": "Get started",
+    "_top_": {
+        "type": "string",
+        "value": "313dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sefc2a313ece45e498dd8c9d119d9d2c",
+    "id": "GetStarted",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g7fef75e8b524b6fb339bd24ce61b01e",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a03008499c104c36928aa7ad5799a741",
+    "parent": "MainPage",
+    "pf": "MainPage",
+    "wType": "Button",
+    "zindex": 1
+}

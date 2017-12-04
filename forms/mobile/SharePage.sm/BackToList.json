@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se82717950314b659c07f2f3d378a930",
+    "_src_": "https://d30y9cdsu7xlg0.cloudfront.net/png/101501-200.png",
+    "_top_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "71dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "SharePage",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "BackToList",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "gba498dae1dd47929be3fd014d857451",
+    "name": "kony.ui.Image2",
+    "ondownloadcomplete": "AS_Image_f5157caf312e4d2cb9ef90e78b5b1cfd",
+    "ontouchstart": "AS_Image_a6b048e77f39487e806cadbe7dcf93a3",
+    "parent": "SharePage",
+    "pf": "SharePage",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

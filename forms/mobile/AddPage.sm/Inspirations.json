@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfa71faeb6b0450782165b5c4669c910",
+    "_text_": "Get  Inspiration!",
+    "_top_": {
+        "type": "string",
+        "value": "107dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.98%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sefc2a313ece45e498dd8c9d119d9d2c",
+    "id": "Inspirations",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b92829e2f2d44c3aa3671de42cac5033",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f42a99e388884064ba76b3369423ad2a",
+    "parent": "AddPage",
+    "pf": "AddPage",
+    "wType": "Button",
+    "zindex": 1
+}

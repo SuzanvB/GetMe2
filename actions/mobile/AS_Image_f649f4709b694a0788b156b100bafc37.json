@@ -1,0 +1,35 @@
+{
+    "AS_Image_f649f4709b694a0788b156b100bafc37": {
+        "id": "AS_Image_f649f4709b694a0788b156b100bafc37",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "MyList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a779883c33224f08a004d53c17d41e2a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a64b4742c3f14f15932358192d3bd429",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "SharePage",
+            "formKUID": "if942142b7bb4827973e53dbdbd65fec",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}

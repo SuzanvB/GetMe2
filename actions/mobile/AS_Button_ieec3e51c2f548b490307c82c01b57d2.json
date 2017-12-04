@@ -1,0 +1,18 @@
+{
+    "AS_Button_ieec3e51c2f548b490307c82c01b57d2": {
+        "id": "AS_Button_ieec3e51c2f548b490307c82c01b57d2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "OPEN_URL__fef8525e41394d59ba3fdf391a6b3d09",
+            "type": "OPEN_URL",
+            "url": "http://www.google.com",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

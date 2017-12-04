@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "105dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se82717950314b659c07f2f3d378a930",
+    "_src_": "https://vignette.wikia.nocookie.net/gaia/images/7/70/Vday2k13_chocolate_box_sparkle.png/revision/latest?cb=20130220174043",
+    "_top_": {
+        "type": "string",
+        "value": "387dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "35.41%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "AddPage",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Im2",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "g110e56f8d5e4d7fb31d0e6700ef13f8",
+    "name": "kony.ui.Image2",
+    "parent": "AddPage",
+    "pf": "AddPage",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd61d71ab92541d3a2770b3159393afd",
+    "_text_": "Write new wish",
+    "_top_": {
+        "type": "string",
+        "value": "161dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.07%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sefc2a313ece45e498dd8c9d119d9d2c",
+    "id": "AddWish",
+    "info": null,
+    "isvisible": true,
+    "kuid": "be07620aa3cc41458e4d9c97c651655b",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_fea987c882c845c28c84584ae9c9b36c",
+    "parent": "AddPage",
+    "pf": "AddPage",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_f42a99e388884064ba76b3369423ad2a": {
+        "id": "AS_Button_f42a99e388884064ba76b3369423ad2a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "AddPage",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c9c33ba8de734babae95ee7347f7ef6c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "OPEN_URL__a2d207a4650e429fb6712911fd6541b9",
+            "type": "OPEN_URL",
+            "url": "http://www.toxicfox.co.uk/gifts-occasion",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s28fb83b56bb46648dd1ed4a011082df",
+    "_text_": "Take a picture",
+    "_top_": {
+        "type": "string",
+        "value": "285dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "207dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "focusskin": "sb402a2ea27f492c840f3b765729e14e",
+    "id": "OpenCamera",
+    "info": null,
+    "isvisible": true,
+    "kuid": "j38c73e336da490cbb85170d486027bf",
+    "name": "kony.ui.Camera",
+    "oncapture": null,
+    "parent": "WriteNewPage",
+    "pf": "WriteNewPage",
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "zindex": 1
+}
